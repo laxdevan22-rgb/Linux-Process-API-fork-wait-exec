@@ -104,36 +104,10 @@ int main() {
     printf("Done.\n");
     return 0;
 }
-
-     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
 ##OUTPUT
-<img width="992" height="99" alt="image" src="https://github.com/user-attachments/assets/7533cb0d-9fe6-422f-8114-028303b959bd" />
+<img width="1011" height="102" alt="image" src="https://github.com/user-attachments/assets/a4e44ec3-dc44-4b51-976e-787fa0cedcbf" />
+
 
 
 
